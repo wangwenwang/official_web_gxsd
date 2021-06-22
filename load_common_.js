@@ -1,6 +1,6 @@
 $(function(){
 
-	$("footer").prepend('<div class="Foot_Top"><div class="Foot_Top_Left"><div><img src="images/header/phone.png" alt="飞读速思教育科技（深圳）有限公司"><span>全国客服热线：18928456377</span></div><div>地址：深圳市宝安区宝源路互联网产业基地A区7610</div></div><div class="Foot_Top_Right"><div><img src="images/header/QrCode_wx.jpg" alt="飞读速思教育科技（深圳）有限公司"><div>关注官方微信公众号</div></div><div><img src="images/header/QrCode_app.png" alt="飞读速思教育科技（深圳）有限公司"><div>下载官方高效速读APP</div></div></div><div class="Foot_Top_Center"></div></div>');
+	$("footer").prepend('<div class="Foot_Top"><div class="Foot_Top_Left"><div><img src="images/header/phone.png" alt="飞读速思教育科技（深圳）有限公司"><span>全国客服热线：400-185-8355</span></div><div>地址：深圳市宝安区宝源路互联网产业基地A区7610</div></div><div class="Foot_Top_Right"><div><img src="images/header/QrCode_wx.jpg" alt="飞读速思教育科技（深圳）有限公司"><div>关注官方微信公众号</div></div><div><img src="images/header/QrCode_app.png" alt="飞读速思教育科技（深圳）有限公司"><div>下载官方高效速读APP</div></div></div><div class="Foot_Top_Center"></div></div>');
 
 	$(".Foot_Bottom").prepend('<span class="pc_banquan">2017-2021 www.gxsd.mobi 飞读速思教育科技（深圳）有限公司（C）版权所有&nbsp;&nbsp;</span><span class="m_banquan">2017-2021  城配（C）版权所有&nbsp;&nbsp;</span><span>&nbsp;&nbsp;<a href="http://www.beian.miit.gov.cn">粤ICP备19160643号-1</a>&nbsp;&nbsp;</span>&nbsp;&nbsp;')
 	$("footer").prepend('<div class="m_Foot_bottom"><div class="m_FootBottom_WX"><div class="m_FootBottom_ClickItem"><i class="iconfont icon-weixin"></i><span>微信</span></div><div class="m_FootBottom_WX_Meng"><i class="iconfont icon-guanbi"></i><div><span>微信人工咨询</span><img src="./images/QRCode.jpg" alt=""></div></div></div><div><div class="m_FootBottom_ClickItem"><a href="WarehousingService.html"><i class="iconfont icon-chanpin"></i><span>产品</span></a></div></div><div><div class="m_FootBottom_ClickItem m_FootBottom_tel"><i class="iconfont icon-dianhua1"></i><span>电话</span></div></div></div>')
@@ -23,7 +23,7 @@ $(function(){
 
 	$('.m_FootBottom_tel').click(function(){
 
-		window.location.href = 'tel://18928456377';
+		window.location.href = 'tel://400-185-8355';
 	})
 })
 
